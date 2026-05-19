@@ -1,0 +1,346 @@
+{
+  "site": {
+    "name": "Hardik Vohra",
+    "role": "Mechanical Engineer | CAD-CAE | Manufacturing Optimization | Technical Leadership",
+    "email": "hardikvohraemail@gmail.com",
+    "emails": {
+      "personal": "hardikvohraemail@gmail.com",
+      "college": "hardik.vohra.ug23@nsut.ac.in"
+    },
+    "phone": "+91 9311086662",
+    "location": "New Delhi, India",
+    "linkedin": "https://linkedin.com/in/hardik-vohra-52ba59195",
+    "github": "",
+    "resume": "/assets/resume/hardik-vohra-resume.pdf"
+  },
+  "heroMetrics": [
+    { "label": "CGPA", "value": "7.67" },
+    { "label": "Leadership Scope", "value": "20 Member Team" },
+    { "label": "Efficiency Gain", "value": "27% Fitment Time" },
+    { "label": "Process Impact", "value": "30% Less Rework" }
+  ],
+  "about": {
+    "headline": "Engineering with the mindset of a builder, analyst, and team lead.",
+    "body": "I am a Mechanical Engineering undergraduate at NSUT focused on designing high-performance systems that are practical to manufacture, validate, and scale. My work spans chassis design, structural analysis, autonomous simulation, process improvement, and team leadership across national competitions and industrial internships.",
+    "focusAreas": [
+      "CAD and CAE for vehicles, mechanisms, and component systems",
+      "Manufacturing optimization using MOST, KAIZEN, and Lean Six Sigma",
+      "Technical leadership across ASME, IEEE, motorsports, and robotics teams"
+    ]
+  },
+  "skills": {
+    "Engineering Design": [
+      "SolidWorks",
+      "AutoCAD",
+      "Mechanical Design",
+      "DFM Mindset",
+      "Chassis Development",
+      "Product Assembly"
+    ],
+    "Simulation and Analysis": [
+      "ANSYS",
+      "FEA",
+      "Static Structural Analysis",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Structural Analysis"
+    ],
+    "Optimization and Data": [
+      "MOST",
+      "Lean Six Sigma",
+      "KAIZEN",
+      "MATLAB",
+      "Power BI",
+      "SQL",
+      "Tableau"
+    ],
+    "Tools and Collaboration": [
+      "MS Office Suite",
+      "Figma",
+      "Canva",
+      "Arduino",
+      "Technical Documentation",
+      "Team Leadership"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Summer Intern",
+      "organization": "Larsen & Toubro - Mechanical Department",
+      "logo": "/assets/images/logo-larsen-toubro-horizontal.png",
+      "logoVariant": "wordmark",
+      "location": "Chandrawal Water Treatment Plant, Delhi",
+      "period": "June 2025 - July 2025",
+      "summary": "Worked on structural detailing, process improvement, and operational analysis in a live water treatment infrastructure environment.",
+      "bullets": [
+        "Generated detailed Bills of Materials from AutoCAD drawings for trusses, purlins, and structural steel components.",
+        "Implemented KAIZEN and Lean Six Sigma practices that improved welding efficiency by 20-25% and reduced rework by 30%.",
+        "Analyzed hydrodynamic flow of the water treatment system to assess operational performance and reliability."
+      ]
+    },
+    {
+      "title": "Summer Intern",
+      "organization": "Maruti Suzuki India Ltd - Quality Control Department",
+      "logo": "/assets/images/logo-maruti-suzuki-wordmark.png",
+      "logoVariant": "wordmark",
+      "location": "MCP Manesar Plant",
+      "period": "May 2024 - July 2024",
+      "summary": "Focused on assembly-line optimization, operator training systems, and manufacturing documentation.",
+      "bullets": [
+        "Applied MOST to optimize Assembly Line-B, reducing fitment time by 27%.",
+        "Developed a video-based Work Instruction System for Brezza assembly training.",
+        "Designed Suzuki Basic Training Modules covering operator safety, efficiency, and process understanding."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "baja-sae-india",
+      "title": "BAJA SAE India 2025",
+      "category": "Vehicle Design",
+      "period": "Oct 2024 - Jan 2025",
+      "role": "Chassis and CAE Engineer, Team Daedalus Racing",
+      "summary": "Designed an ATV chassis with a balance of strength, ergonomics, manufacturability, and race readiness.",
+      "impact": "Contributed to event-finals qualification through validated impact and roll-cage analysis.",
+      "tech": ["SolidWorks", "ANSYS", "Chassis Design", "FEA", "Fabrication"],
+      "tags": ["CAD", "CAE", "ATV", "Motorsports"],
+      "featured": true,
+      "media": [],
+      "bullets": [
+        "Modeled chassis geometry in SolidWorks around strength, driver packaging, and manufacturability.",
+        "Performed impact and roll-cage FEA in ANSYS to validate critical structural scenarios.",
+        "Supported fabrication-ready engineering decisions for race preparation."
+      ]
+    },
+    {
+      "slug": "team-falcon-ehpv",
+      "title": "ASME Team Falcon e-HPV",
+      "category": "Mobility Systems",
+      "period": "June 2025 - Present",
+      "role": "Captain, ASME NSUT",
+      "summary": "Leading a 20-member team designing and testing an electric human-powered vehicle aligned with ASME standards.",
+      "impact": "Driving full-cycle engineering decisions across structure, drivetrain, packaging, and team execution.",
+      "tech": ["SolidWorks", "ANSYS", "Vehicle Architecture", "Leadership", "Testing"],
+      "tags": ["Leadership", "Vehicle Design", "e-HPV"],
+      "featured": true,
+      "media": [],
+      "bullets": [
+        "Led a multidisciplinary team of 20 members across design, testing, and execution.",
+        "Optimized chassis and drivetrain decisions for better strength-to-weight performance.",
+        "Built accountability systems for technical reviews, build readiness, and competition preparation."
+      ]
+    },
+    {
+      "slug": "migtron-engine",
+      "title": "Migtron 1.2L Naturally Aspirated IC Engine",
+      "category": "Powertrain Design",
+      "period": "Sept 2025 - Nov 2025",
+      "role": "Product Design and Development",
+      "summary": "Designed and assembled reciprocating engine components in CAD, then validated reliability through structural and thermal studies.",
+      "impact": "Translated engine architecture into a manufacturable and analysis-backed digital prototype.",
+      "tech": ["CAD", "ANSYS", "Thermal Analysis", "Structural Analysis"],
+      "tags": ["Powertrain", "Mechanical Design", "Simulation"],
+      "featured": true,
+      "media": [],
+      "bullets": [
+        "Created CAD assemblies for reciprocating engine components.",
+        "Performed static structural and thermal analysis in ANSYS.",
+        "Refined design decisions around reliability and component behavior."
+      ]
+    },
+    {
+      "slug": "xrc-autonomous-vehicle",
+      "title": "XRC Autonomous Virtual Vehicle",
+      "category": "Autonomous Systems",
+      "period": "2025 - 2026",
+      "role": "Autonomous Vehicle Simulation Engineer",
+      "summary": "Built a virtual autonomous vehicle in HyperSkill to demonstrate automation and control-system fundamentals.",
+      "impact": "Developed logic-driven behavior for simulated navigation and obstacle response.",
+      "tech": ["HyperSkill", "Autonomy", "Control Systems", "Simulation"],
+      "tags": ["Simulation", "Autonomous", "Control Logic"],
+      "featured": true,
+      "media": [],
+      "bullets": [
+        "Developed virtual vehicle logic in HyperSkill.",
+        "Explored control-system behavior through autonomous simulation scenarios.",
+        "Demonstrated engineering fundamentals of automation in a competition context."
+      ]
+    },
+    {
+      "slug": "team-titan-strike",
+      "title": "Team Titan Strike Robowar",
+      "category": "Combat Robotics",
+      "period": "Dec 2025 - Jan 2026",
+      "role": "Captain",
+      "summary": "Led technical execution for a 15 kg robowar entry, managing material sourcing, assembly, and on-ground troubleshooting.",
+      "impact": "Combined mechanical integration, systems packaging, and rapid decision-making under competition pressure.",
+      "tech": ["Fabrication", "Robotics", "Mechanical Integration", "Leadership"],
+      "tags": ["Robowar", "Mechanical Build", "Competition"],
+      "featured": true,
+      "media": [],
+      "bullets": [
+        "Directed material sourcing, precision assembly, and rapid failure-response workflows.",
+        "Worked hands-on with packaging and integration constraints inside the robot architecture.",
+        "Represented ASME NSUT in a national-level competition environment."
+      ]
+    },
+    {
+      "slug": "line-following-robot",
+      "title": "Line-Following Robot",
+      "category": "Embedded Robotics",
+      "period": "2024",
+      "role": "Builder and Developer",
+      "summary": "Built an Arduino-based autonomous robot with sensor-driven real-time path tracking.",
+      "impact": "Showcased practical control logic, electronics integration, and autonomous response behavior.",
+      "tech": ["Arduino", "Sensors", "Embedded Control", "Rapid Prototyping"],
+      "tags": ["Arduino", "Robotics", "Autonomous Control"],
+      "featured": false,
+      "media": [],
+      "bullets": [
+        "Designed and built the hardware system.",
+        "Implemented sensor-based logic for path tracking.",
+        "Validated real-time autonomous movement behavior."
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Captain",
+      "organization": "ASME NSUT - Team Falcon",
+      "period": "June 2025 - Present",
+      "summary": "Leading an e-HPV team through design, testing, and competition preparation.",
+      "bullets": [
+        "Managed a 20-member cross-functional team.",
+        "Set technical direction across chassis and drivetrain decisions."
+      ]
+    },
+    {
+      "title": "Placement Coordinator",
+      "organization": "NSUT Mechanical Engineering Branch",
+      "period": "2025 - Present",
+      "summary": "Selected among 16 students from 2000+ candidates to support placement activities.",
+      "bullets": [
+        "Managed communication between recruiters and students.",
+        "Improved placement engagement and coordination quality."
+      ]
+    },
+    {
+      "title": "Senior Executive Member",
+      "organization": "IEEE NSUT",
+      "period": "2025",
+      "summary": "Core organizing member for IEEE TENSYMP international conference.",
+      "bullets": [
+        "Supported speaker engagement and technical-session execution.",
+        "Contributed to end-to-end conference coordination."
+      ]
+    },
+    {
+      "title": "Treasurer",
+      "organization": "ASME NSUT",
+      "period": "2025 - Present",
+      "summary": "Managing treasury responsibilities while supporting chapter operations, planning, and execution.",
+      "bullets": [
+        "Overseeing financial coordination and resource planning for ASME NSUT activities.",
+        "Supporting chapter execution alongside technical and organizational responsibilities."
+      ]
+    }
+  ],
+  "achievements": [
+    "1st Position - Ecopreneurs Case-Comp, DTU 2026 for a manufacturing optimization solution for VTOL.",
+    "3rd Position - CAD Battle at DTU Invictus 2025.",
+    "2nd Position - Beyond The Grid during NSUT Resonanz 2024.",
+    "100/100 and Course Topper - Conservation Geography, IIT Kanpur.",
+    "Elite + Silver - Design Thinking, IIT Madras.",
+    "91% in NPTEL Introduction to Internet of Things with top 2% performance nationwide."
+  ],
+  "certificates": [
+    {
+      "title": "Maruti Suzuki Internship Certificate",
+      "issuer": "Maruti Suzuki India Ltd",
+      "outcome": "Industrial internship in quality-control and assembly optimization.",
+      "asset": "/assets/certificates/maruti-suzuki-internship.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Larsen & Toubro Internship Certificate",
+      "issuer": "Larsen & Toubro Limited",
+      "outcome": "Internship completion certificate for training at the Chandrawal 477 MLD Water & Effluent Treatment project from 2 June 2025 to 10 July 2025.",
+      "asset": "/assets/certificates/larsen-toubro-internship.jpeg",
+      "kind": "image"
+    },
+    {
+      "title": "NSS Certificate",
+      "issuer": "National Service Scheme",
+      "outcome": "Volunteer and service participation recognition.",
+      "asset": "/assets/certificates/nss-certificate.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Design Thinking - A Primer",
+      "issuer": "IIT Madras / NPTEL",
+      "outcome": "Elite + Silver, 87%",
+      "asset": "/assets/certificates/design-thinking-iit-madras.jpg",
+      "kind": "image"
+    },
+    {
+      "title": "Industrial Training in Robotics and AI",
+      "issuer": "My Equation",
+      "outcome": "Completed 30-day training in robotics automation and software simulation with AI.",
+      "asset": "/assets/certificates/my-equation-robo-ai.jpg",
+      "kind": "image"
+    },
+    {
+      "title": "Developing Soft Skills and Personality",
+      "issuer": "IIT Kanpur / NPTEL",
+      "outcome": "Elite, 83%",
+      "asset": "/assets/certificates/soft-skills-iit-kanpur.jpg",
+      "kind": "image"
+    },
+    {
+      "title": "Six Sigma White Belt",
+      "issuer": "Six Sigma Online",
+      "outcome": "Six Sigma White Belt Certification in process-improvement fundamentals and waste reduction.",
+      "asset": "/assets/certificates/six-sigma-white-belt.jpg",
+      "kind": "image"
+    },
+    {
+      "title": "Introduction to Internet of Things",
+      "issuer": "IIT Kharagpur / NPTEL",
+      "outcome": "Completed Jan-Apr 2026 with a consolidated score of 91% and top 2% performance nationwide.",
+      "asset": "/assets/certificates/nptel-introduction-to-iot.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Volship Fellowship Certificate of Appreciation",
+      "issuer": "Volunteer for India / Bhumi / YuWaah at UNICEF",
+      "outcome": "Recognized for exemplary dedication and active participation in the Volship Fellowship between May 10 and August 11, 2024.",
+      "asset": "/assets/certificates/volship-appreciation.jpg",
+      "kind": "image"
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Tech in Mechanical Engineering",
+      "organization": "Netaji Subhas University of Technology",
+      "period": "2023 - 2027",
+      "summary": "CGPA: 7.67",
+      "bullets": [
+        "Focused on mechanical design, structural analysis, manufacturing systems, and applied engineering projects."
+      ]
+    },
+    {
+      "title": "CBSE Class XII",
+      "organization": "SCSDSV Sector-9, Rohini, New Delhi",
+      "period": "2023",
+      "summary": "85.8%",
+      "bullets": []
+    },
+    {
+      "title": "CBSE Class X",
+      "organization": "Apeejay School, Pitampura, New Delhi",
+      "period": "2021",
+      "summary": "91.2%",
+      "bullets": []
+    }
+  ]
+}

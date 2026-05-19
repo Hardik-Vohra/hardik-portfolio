@@ -1,0 +1,340 @@
+{
+  "fullName": "Hardik Vohra",
+  "contact": {
+    "phone": "+91 9311086662",
+    "email": "hardik.vohra.ug23@nsut.ac.in",
+    "linkedin": "https://linkedin.com/in/hardik-vohra-52ba59195",
+    "location": "New Delhi, India"
+  },
+  "headline": "Mechanical Engineering undergraduate focused on CAD, CAE, manufacturing optimization, robotics, and technical leadership.",
+  "summary": "Mechanical Engineering student at NSUT with internship experience at Larsen & Toubro and Maruti Suzuki, hands-on work in chassis design, FEA, autonomous systems, and leadership across ASME and IEEE chapters.",
+  "skills": {
+    "designAndSimulation": [
+      "SolidWorks",
+      "ANSYS",
+      "AutoCAD",
+      "HyperSkill"
+    ],
+    "engineering": [
+      "Mechanical Design",
+      "Fluid Dynamics",
+      "Structural Analysis",
+      "CAD",
+      "CAE",
+      "Finite Element Analysis",
+      "Thermal Analysis",
+      "Manufacturing"
+    ],
+    "processOptimization": [
+      "MOST",
+      "Lean Six Sigma",
+      "KAIZEN",
+      "DMAIC"
+    ],
+    "dataAndAnalysis": [
+      "MATLAB",
+      "Power BI",
+      "SQL",
+      "Tableau"
+    ],
+    "productivityAndDesign": [
+      "MS Office Suite",
+      "Canva",
+      "Figma"
+    ],
+    "softSkills": [
+      "Team Leadership",
+      "Communication",
+      "Problem Solving",
+      "Technical Mentorship",
+      "Coordination"
+    ]
+  },
+  "toolsAndSoftware": [
+    "SolidWorks",
+    "ANSYS",
+    "AutoCAD",
+    "HyperSkill",
+    "MATLAB",
+    "Power BI",
+    "SQL",
+    "Tableau",
+    "MS Office Suite",
+    "Canva",
+    "Figma",
+    "Arduino"
+  ],
+  "internships": [
+    {
+      "company": "Larsen & Toubro",
+      "department": "Mechanical Department",
+      "role": "Summer Intern",
+      "location": "Chandrawal Water Treatment Plant, Delhi",
+      "start": "2025-06",
+      "end": "2025-07",
+      "highlights": [
+        "Generated detailed Bills of Materials from AutoCAD drawings for trusses, purlins, and structural steel components.",
+        "Implemented KAIZEN and Lean Six Sigma practices to improve welding efficiency by 20-25% and reduce rework by 30%.",
+        "Analyzed hydrodynamic flow of the water treatment system to assess operational performance and reliability."
+      ]
+    },
+    {
+      "company": "Maruti Suzuki India Ltd",
+      "department": "Quality Control Department",
+      "role": "Summer Intern",
+      "location": "MCP Manesar Plant",
+      "start": "2024-05",
+      "end": "2024-07",
+      "highlights": [
+        "Applied Maynard Operation Sequence Technique (MOST) to optimize Assembly Line-B, reducing fitment time by 27%.",
+        "Developed a video-based Work Instruction System for Brezza assembly training.",
+        "Designed Suzuki Basic Training Modules covering operator safety, efficiency, and factory process understanding."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "BAJA SAE India 2025 - Team Daedalus Racing",
+      "role": "Chassis & CAE Engineer",
+      "type": "Competition Project",
+      "start": "2024-10",
+      "end": "2025-01",
+      "organization": "NSUT Motorsports",
+      "tags": [
+        "SolidWorks",
+        "ANSYS",
+        "ATV Chassis",
+        "FEA",
+        "Manufacturing"
+      ],
+      "highlights": [
+        "Designed and fabricated an ATV chassis using SolidWorks with focus on strength, ergonomics, and manufacturability.",
+        "Performed impact and roll cage FEA in ANSYS, contributing to team qualification for event finals."
+      ]
+    },
+    {
+      "title": "ASME NSUT Team Falcon e-HPV",
+      "role": "Captain",
+      "type": "Engineering Team Project",
+      "start": "2025-06",
+      "end": "Present",
+      "organization": "ASME NSUT",
+      "tags": [
+        "Leadership",
+        "Electric Human Powered Vehicle",
+        "SolidWorks",
+        "ANSYS",
+        "Chassis",
+        "Drivetrain"
+      ],
+      "highlights": [
+        "Led a 20-member team in the design and testing of an electric human-powered vehicle compliant with ASME standards.",
+        "Optimized chassis and drivetrain using SolidWorks and ANSYS for improved strength-to-weight ratio."
+      ]
+    },
+    {
+      "title": "Migtron 1.2L Naturally Aspirated 4-Stroke 4-Cylinder Engine",
+      "role": "Product Design & Development",
+      "type": "Academic Project",
+      "start": "2025-09",
+      "end": "2025-11",
+      "tags": [
+        "IC Engine",
+        "CAD",
+        "ANSYS",
+        "Structural Analysis",
+        "Thermal Analysis"
+      ],
+      "highlights": [
+        "Designed and assembled reciprocating engine components in CAD.",
+        "Performed static structural and thermal analysis in ANSYS to refine performance and reliability."
+      ]
+    },
+    {
+      "title": "XRC Autonomous Virtual Vehicle",
+      "role": "Autonomous Vehicle Simulation Engineer",
+      "type": "Competition Project",
+      "start": "2025",
+      "end": "2026",
+      "organization": "ASME E-Fest",
+      "tags": [
+        "Automation",
+        "Control Systems",
+        "Simulation",
+        "HyperSkill"
+      ],
+      "highlights": [
+        "Developed a virtual autonomous vehicle using HyperSkill software.",
+        "Demonstrated fundamentals of automation and control systems through simulation."
+      ]
+    },
+    {
+      "title": "Line-Following Robot",
+      "role": "Builder / Developer",
+      "type": "Robotics Project",
+      "tags": [
+        "Arduino",
+        "Embedded Systems",
+        "Sensors",
+        "Autonomous Navigation"
+      ],
+      "highlights": [
+        "Designed and built an autonomous line-following robot using Arduino.",
+        "Implemented sensor-based control for real-time path tracking."
+      ]
+    },
+    {
+      "title": "Team Titan Strike Robowar Bot",
+      "role": "Captain",
+      "type": "Competition Project",
+      "start": "2025-12",
+      "end": "2026-01",
+      "organization": "ASME NSUT",
+      "tags": [
+        "Robowar",
+        "Competition",
+        "Fabrication",
+        "Troubleshooting",
+        "Leadership"
+      ],
+      "highlights": [
+        "Led team operations and technical execution in the 15 kg Robowar category.",
+        "Oversaw material sourcing, precision assembly, and real-time troubleshooting during ASME EFx 2026 at LMNIIT Jaipur."
+      ]
+    }
+  ],
+  "cadCaeExperience": [
+    "Generated Bills of Materials from AutoCAD drawings for structural steel components.",
+    "Designed ATV chassis in SolidWorks for BAJA SAE India.",
+    "Optimized e-HPV chassis and drivetrain in SolidWorks and ANSYS.",
+    "Performed impact, roll cage, static structural, and thermal analyses in ANSYS.",
+    "Developed autonomous vehicle simulations in HyperSkill."
+  ],
+  "leadership": [
+    {
+      "title": "Captain",
+      "organization": "ASME NSUT - Team Falcon",
+      "start": "2025-06",
+      "end": "Present",
+      "highlights": [
+        "Led a 20-member team designing and testing an electric human-powered vehicle.",
+        "Drove technical decisions across chassis, drivetrain, and validation workflows."
+      ]
+    },
+    {
+      "title": "Captain",
+      "organization": "Team Titan Strike",
+      "start": "2025-12",
+      "end": "2026-01",
+      "highlights": [
+        "Managed technical execution and team operations in a national-level robowar competition."
+      ]
+    },
+    {
+      "title": "Placement Coordinator",
+      "organization": "NSUT Mechanical Engineering Branch",
+      "highlights": [
+        "Selected among 16 students out of 2000+ candidates to coordinate placement activities.",
+        "Managed recruiter-student communication to improve placement engagement."
+      ]
+    },
+    {
+      "title": "Senior Executive Member",
+      "organization": "IEEE NSUT",
+      "highlights": [
+        "Core organizing member of IEEE TENSYMP, supporting technical sessions, speaker coordination, and event execution."
+      ]
+    },
+    {
+      "title": "Senior Executive Committee Member",
+      "organization": "ASME NSUT",
+      "highlights": [
+        "Led the Research and Development wing and mentored junior members on mechanical prototypes."
+      ]
+    }
+  ],
+  "competitions": [
+    {
+      "name": "ASME EFx 2026 Robowar Competition",
+      "role": "Captain, Team Titan Strike",
+      "result": "Participated at national level"
+    },
+    {
+      "name": "BAJA SAE India 2025",
+      "role": "Chassis & CAE Engineer",
+      "result": "Qualified for event finals"
+    },
+    {
+      "name": "ASME E-Fest XRC Autonomous Virtual Vehicle",
+      "role": "Autonomous Vehicle Simulation Engineer"
+    },
+    {
+      "name": "Ecopreneurs Case-Comp, DTU 2026",
+      "result": "1st Position",
+      "details": "Proposed a manufacturing optimization solution for VTOL."
+    },
+    {
+      "name": "CAD Battle, DTU Invictus 2025",
+      "result": "3rd Position"
+    },
+    {
+      "name": "Beyond The Grid, NSUT Resonanz 2024",
+      "result": "2nd Position"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Design Thinking",
+      "issuer": "IIT Madras",
+      "grade": "Elite + Silver"
+    },
+    {
+      "name": "Conservation Geography",
+      "issuer": "IIT Kanpur",
+      "grade": "100/100, Course Topper"
+    },
+    {
+      "name": "Industrial Training in Robotics & AI",
+      "issuer": "My Equation"
+    },
+    {
+      "name": "White Belt Six Sigma",
+      "issuer": "Unknown",
+      "details": "Focused on DMAIC and waste reduction."
+    }
+  ],
+  "achievements": [
+    "Improved welding efficiency by 20-25% and reduced rework by 30% at Larsen & Toubro.",
+    "Reduced assembly fitment time by 27% at Maruti Suzuki using MOST.",
+    "Selected among 16 students out of 2000+ candidates as Placement Coordinator.",
+    "Secured 1st Position in Ecopreneurs Case-Comp (DTU 2026).",
+    "Secured 3rd Position in CAD Battle at DTU Invictus 2025.",
+    "Secured 2nd Position in Beyond The Grid during NSUT Resonanz 2024.",
+    "Achieved 100/100 in Conservation Geography at IIT Kanpur.",
+    "Earned Elite + Silver in Design Thinking at IIT Madras."
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Mechanical Engineering",
+      "institution": "Netaji Subhas University of Technology (NSUT)",
+      "location": "New Delhi",
+      "startYear": 2023,
+      "endYear": 2027,
+      "cgpa": 7.67
+    },
+    {
+      "degree": "CBSE Class XII",
+      "institution": "SCSDSV Sector-9, Rohini",
+      "location": "New Delhi",
+      "year": 2023,
+      "score": "85.8%"
+    },
+    {
+      "degree": "CBSE Class X",
+      "institution": "Apeejay School, Pitampura",
+      "location": "New Delhi",
+      "year": 2021,
+      "score": "91.2%"
+    }
+  ]
+}

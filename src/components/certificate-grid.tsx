@@ -39,11 +39,7 @@ export function CertificateGrid({ items }: CertificateGridProps) {
               >
                 Open certificate
               </a>
-            ) : (
-              <p className="mt-6 text-xs font-semibold uppercase tracking-[0.25em] text-[#ffd37a]">
-                Listed on current resume
-              </p>
-            )}
+            ) : null}
           </article>
         );
       })}

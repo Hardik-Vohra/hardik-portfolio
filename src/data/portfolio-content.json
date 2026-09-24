@@ -307,18 +307,6 @@
   ],
   "certificates": [
     {
-      "title": "Maruti Suzuki Internship Certificate",
-      "issuer": "Maruti Suzuki India Ltd",
-      "outcome": "Industrial internship in quality-control and assembly optimization.",
-      "kind": "image"
-    },
-    {
-      "title": "Larsen & Toubro Internship Certificate",
-      "issuer": "Larsen & Toubro Limited",
-      "outcome": "Internship completion certificate for training at the Chandrawal water and effluent treatment project.",
-      "kind": "image"
-    },
-    {
       "title": "NSS Certificate",
       "issuer": "National Service Scheme",
       "outcome": "Volunteer and service participation recognition.",

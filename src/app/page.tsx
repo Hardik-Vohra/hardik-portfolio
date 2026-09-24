@@ -40,7 +40,7 @@ const galleryItems = [
   ["/assets/images/team-titan-workshop.jpeg", "BAJA SAE India 2025", "Team Daedalus Racing at the BAJA SAE India 2025 competition."],
   ["/assets/images/team-daedalus-event.jpeg", "ASME EFx Robowar", "Captain of the ASME NSUT team competing in Robowar."],
   ["/assets/images/team-group.jpeg", "Robowar Bot Internals", "Internal mechanical and electrical packaging of the combat robot."],
-  ["/assets/images/robot-internals.jpeg", "Robot Internals", "Mechanical packaging and system-level integration."],
+  ["/assets/images/robot-internals.jpeg", "ASME EFx 2026 Team - ASME NSUT", "ASME NSUT team celebration at the ASME EFx 2026 competition."],
   ["/assets/images/gallery-baja-team.png", "BAJA Team", "Team Daedalus Racing group photo."],
   ["/assets/images/gallery-asme-efx-team.png", "ASME EFx", "ASME team collaboration and event participation."],
   ["/assets/images/gallery-team-award-stage.png", "Competition Stage", "A team milestone captured after competition."],

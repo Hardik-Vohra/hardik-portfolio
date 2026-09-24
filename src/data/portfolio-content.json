@@ -295,77 +295,55 @@
     }
   ],
   "achievements": [
-    "1st Position - Ecopreneurs Case-Comp, DTU 2026 for a manufacturing optimization solution for VTOL.",
-    "3rd Position - CAD Battle at DTU Invictus 2025.",
-    "2nd Position - Beyond The Grid during NSUT Resonanz 2024.",
-    "AIR 3 - ASME Efx RC Drone Challenge 2026.",
-    "AIR 4 - ASME Efx Robowar 2026.",
-    "100/100 and Course Topper - Conservation Geography, IIT Kanpur.",
-    "Elite + Silver - Design Thinking, IIT Madras.",
-    "91% in NPTEL Introduction to Internet of Things with top 2% performance nationwide."
+    "1st Rank - Ecopreneurs Case Challenge, DTU 2026.",
+    "Top 2% Nationwide - NPTEL Introduction to Internet of Things with 91%.",
+    "Finalist - BAJA SAE India 2025 CAE Event.",
+    "3rd Rank - CAD Battle, DTU 2025.",
+    "2nd Rank - BTG CAD Competition, NSUT 2024.",
+    "AIR 3 - ASME EFx RC Drone Challenge 2026.",
+    "AIR 4 - ASME EFx Robowar Challenge 2026."
   ],
   "certificates": [
     {
-      "title": "Maruti Suzuki Internship Certificate",
-      "issuer": "Maruti Suzuki India Ltd",
-      "outcome": "Industrial internship in quality-control and assembly optimization.",
-      "asset": "/assets/certificates/maruti-suzuki-internship.pdf",
-      "kind": "pdf"
-    },
-    {
-      "title": "Larsen & Toubro Internship Certificate",
-      "issuer": "Larsen & Toubro Limited",
-      "outcome": "Internship completion certificate for training at the Chandrawal 477 MLD Water & Effluent Treatment project from 2 June 2025 to 10 July 2025.",
-      "asset": "/assets/certificates/larsen-toubro-internship.jpeg",
-      "kind": "image"
-    },
-    {
-      "title": "NSS Certificate",
-      "issuer": "National Service Scheme",
-      "outcome": "Volunteer and service participation recognition.",
-      "asset": "/assets/certificates/nss-certificate.pdf",
-      "kind": "pdf"
-    },
-    {
-      "title": "Design Thinking - A Primer",
-      "issuer": "IIT Madras / NPTEL",
-      "outcome": "Elite + Silver, 87%",
-      "asset": "/assets/certificates/design-thinking-iit-madras.jpg",
-      "kind": "image"
-    },
-    {
-      "title": "Industrial Training in Robotics and AI",
-      "issuer": "My Equation",
-      "outcome": "Completed 30-day training in robotics automation and software simulation with AI.",
-      "asset": "/assets/certificates/my-equation-robo-ai.jpg",
-      "kind": "image"
-    },
-    {
-      "title": "Developing Soft Skills and Personality",
-      "issuer": "IIT Kanpur / NPTEL",
-      "outcome": "Elite, 83%",
-      "asset": "/assets/certificates/soft-skills-iit-kanpur.jpg",
-      "kind": "image"
-    },
-    {
-      "title": "Six Sigma White Belt",
+      "title": "Lean Six Sigma White Belt",
       "issuer": "Six Sigma Online",
-      "outcome": "Six Sigma White Belt Certification in process-improvement fundamentals and waste reduction.",
-      "asset": "/assets/certificates/six-sigma-white-belt.jpg",
+      "outcome": "Certification in process-improvement fundamentals and waste reduction.",
       "kind": "image"
     },
     {
-      "title": "Introduction to Internet of Things",
-      "issuer": "IIT Kharagpur / NPTEL",
-      "outcome": "Completed Jan-Apr 2026 with a consolidated score of 91% and top 2% performance nationwide.",
-      "asset": "/assets/certificates/nptel-introduction-to-iot.pdf",
-      "kind": "pdf"
+      "title": "Design Thinking",
+      "issuer": "IIT Madras",
+      "outcome": "Completed Design Thinking coursework through NPTEL.",
+      "kind": "image"
     },
     {
-      "title": "Volship Fellowship Certificate of Appreciation",
-      "issuer": "Volunteer for India / Bhumi / YuWaah at UNICEF",
-      "outcome": "Recognized for exemplary dedication and active participation in the Volship Fellowship between May 10 and August 11, 2024.",
-      "asset": "/assets/certificates/volship-appreciation.jpg",
+      "title": "Industrial Training in Robotics & AI",
+      "issuer": "My Equation",
+      "outcome": "Completed industrial training in robotics automation and AI-based software simulation.",
+      "kind": "image"
+    },
+    {
+      "title": "McKinsey Forward Learning Program",
+      "issuer": "McKinsey & Company",
+      "outcome": "Completed the McKinsey Forward Learning Program.",
+      "kind": "image"
+    },
+    {
+      "title": "Generative AI",
+      "issuer": "Microsoft",
+      "outcome": "Completed a Generative AI learning credential.",
+      "kind": "image"
+    },
+    {
+      "title": "Geometric Dimensioning & Tolerancing",
+      "issuer": "Technical Learning Credential",
+      "outcome": "Completed GD&T learning focused on engineering drawings and manufacturing communication.",
+      "kind": "image"
+    },
+    {
+      "title": "Procor - Project Management",
+      "issuer": "Procor",
+      "outcome": "Completed project-management learning and applied planning fundamentals.",
       "kind": "image"
     }
   ],

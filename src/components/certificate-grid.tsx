@@ -41,7 +41,7 @@ export function CertificateGrid({ items }: CertificateGridProps) {
               </a>
             ) : (
               <p className="mt-6 text-xs font-semibold uppercase tracking-[0.25em] text-[#ffd37a]">
-                Awaiting certificate file
+                Listed on current resume
               </p>
             )}
           </article>

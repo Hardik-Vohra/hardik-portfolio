@@ -37,9 +37,9 @@ const featuredProjects = projects.filter((project) => project.featured);
 
 const galleryItems = [
   ["/assets/images/profile-formal.jpeg", "Profile", "Mechanical engineering student, builder, and team lead."],
-  ["/assets/images/team-titan-workshop.jpeg", "Robotics Workshop", "Hands-on integration, fabrication, and competition preparation."],
-  ["/assets/images/team-daedalus-event.jpeg", "BAJA SAE India", "Team Daedalus Racing at a national motorsport competition."],
-  ["/assets/images/team-group.jpeg", "Teamwork", "Engineering outcomes built through focused collaboration."],
+  ["/assets/images/team-titan-workshop.jpeg", "BAJA SAE India 2025", "Team Daedalus Racing at the BAJA SAE India 2025 competition."],
+  ["/assets/images/team-daedalus-event.jpeg", "ASME EFx Robowar", "Captain of the ASME NSUT team competing in Robowar."],
+  ["/assets/images/team-group.jpeg", "Robowar Bot Internals", "Internal mechanical and electrical packaging of the combat robot."],
   ["/assets/images/robot-internals.jpeg", "Robot Internals", "Mechanical packaging and system-level integration."],
   ["/assets/images/gallery-baja-team.png", "BAJA Team", "Team Daedalus Racing group photo."],
   ["/assets/images/gallery-asme-efx-team.png", "ASME EFx", "ASME team collaboration and event participation."],
@@ -188,7 +188,7 @@ export default function Home() {
             {activeSection === "credentials" ? <div className="space-y-16">
               <div className="grid gap-10 lg:grid-cols-[0.78fr_1.22fr]"><SectionHeading eyebrow="Education" title="A strong academic base, kept close to applied work." description="Academic progress is presented alongside the systems, analysis, and team projects where the learning is put to work." /><div className="grid gap-5">{content.education.map((item) => <TimelineCard key={`${item.organization}-${item.period}`} title={item.title} organization={item.organization} period={item.period} summary={item.summary} bullets={item.bullets} />)}</div></div>
               <div><SectionHeading eyebrow="Recognition" title="Results across competitions, academics, and applied problem-solving." description="A concise view of rankings, awards, and distinctions that reinforce the engineering work." /><div className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">{content.achievements.map((achievement) => <article key={achievement} className="rounded-3xl border border-white/10 bg-panel/70 p-6 shadow-glow"><div className="flex items-center gap-3 text-flame"><Trophy className="h-5 w-5" /><p className="text-xs uppercase tracking-[0.3em]">Achievement</p></div><p className="mt-5 text-sm leading-7 text-silver">{achievement}</p></article>)}</div></div>
-              <div><SectionHeading eyebrow="Certifications" title="Credentials that add technical breadth." description="Open a certificate to inspect the supporting document or image." /><div className="mt-8"><CertificateGrid items={certificates} /></div></div>
+              <div><SectionHeading eyebrow="Certifications" title="Credentials that add technical breadth." description="Current resume-listed certifications and learning programs. Certificate files are intentionally not linked." /><div className="mt-8"><CertificateGrid items={certificates} /></div></div>
             </div> : null}
 
             {activeSection === "gallery" ? <div><SectionHeading eyebrow="Gallery" title="Visual proof of teams, builds, and analysis." description="A curated visual record of the work behind the projects, from CAD and FEA studies to competition teams and prototypes." /><div className="mt-10"><MediaGallery items={galleryItems} /></div></div> : null}

@@ -41,6 +41,6 @@ export type Certificate = {
   title: string;
   issuer: string;
   outcome: string;
-  asset: string;
+  asset?: string;
   kind: "image" | "pdf";
 };

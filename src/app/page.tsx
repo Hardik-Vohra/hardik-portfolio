@@ -19,17 +19,15 @@ import {
 import { useRef, useState } from "react";
 
 import content from "@/data/portfolio-content.json";
-import type { Certificate, Metric, Project, TimelineItem } from "@/types/portfolio";
+import type { Certificate, Project, TimelineItem } from "@/types/portfolio";
 import { CertificateGrid } from "@/components/certificate-grid";
 import { ContactPanel } from "@/components/contact-panel";
 import { MediaGallery } from "@/components/media-gallery";
 import { ProjectShowcase } from "@/components/project-showcase";
 import { SectionHeading } from "@/components/section-heading";
 import { Shell } from "@/components/shell";
-import { StatCard } from "@/components/stat-card";
 import { TimelineCard } from "@/components/timeline-card";
 
-const heroMetrics = content.heroMetrics as Metric[];
 const experience = content.experience as TimelineItem[];
 const projects = content.projects as Project[];
 const certificates = content.certificates as Certificate[];
@@ -148,7 +146,6 @@ export default function Home() {
               <button type="button" onClick={() => openSection("projects")} className="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#05070b] transition hover:bg-accent">Explore projects <ArrowRight className="h-4 w-4" /></button>
               <button type="button" onClick={() => openSection("resume")} className="inline-flex items-center gap-2 rounded-full border border-white/15 px-6 py-3 text-sm font-semibold text-white transition hover:border-accent hover:text-accent">View resume <FileText className="h-4 w-4" /></button>
             </div>
-            <div className="mt-10 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">{heroMetrics.map((metric) => <StatCard key={metric.label} label={metric.label} value={metric.value} />)}</div>
           </div>
 
           <div className="relative lg:pl-8">

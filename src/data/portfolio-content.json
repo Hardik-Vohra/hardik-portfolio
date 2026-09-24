@@ -13,12 +13,6 @@
     "github": "",
     "resume": "/assets/resume/hardik-vohra-resume-latest.pdf"
   },
-  "heroMetrics": [
-    { "label": "CGPA", "value": "7.82" },
-    { "label": "Leadership Scope", "value": "20 Member Team" },
-    { "label": "Efficiency Gain", "value": "27% Fitment Time" },
-    { "label": "Process Impact", "value": "30% Less Rework" }
-  ],
   "about": {
     "headline": "Engineering with the mindset of a builder, analyst, and team lead.",
     "body": "I am a Mechanical Engineering undergraduate at NSUT focused on designing high-performance systems that are practical to manufacture, validate, and scale. My work spans chassis design, structural analysis, autonomous simulation, process improvement, and team leadership across national competitions and industrial internships.",

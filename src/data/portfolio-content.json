@@ -14,7 +14,7 @@
     "resume": "/assets/resume/hardik-vohra-resume.pdf"
   },
   "heroMetrics": [
-    { "label": "CGPA", "value": "7.67" },
+    { "label": "CGPA", "value": "7.82" },
     { "label": "Leadership Scope", "value": "20 Member Team" },
     { "label": "Efficiency Gain", "value": "27% Fitment Time" },
     { "label": "Process Impact", "value": "30% Less Rework" }
@@ -64,6 +64,19 @@
     ]
   },
   "experience": [
+    {
+      "title": "Project Development Intern",
+      "organization": "Cushman & Wakefield",
+      "logo": "/assets/images/logo-cushman-wakefield.png",
+      "logoVariant": "mark",
+      "location": "Gurgaon",
+      "period": "June 2026 - August 2026",
+      "summary": "Supported project execution through BOQ analysis, progress tracking, material planning, and requirement tracking.",
+      "bullets": [
+        "Evaluated contractor quotations and developed comparative statements, contributing to an 18% reduction in procurement costs.",
+        "Supported project execution through BOQ analysis, progress tracking, material planning, and requirement tracking."
+      ]
+    },
     {
       "title": "Summer Intern",
       "organization": "Larsen & Toubro - Mechanical Department",
@@ -201,6 +214,24 @@
         "Implemented sensor-based logic for path tracking.",
         "Validated real-time autonomous movement behavior."
       ]
+    },
+    {
+      "slug": "thermal-characterization-laser-flash",
+      "title": "Thermal Characterization Using Laser Flash Analysis",
+      "category": "Thermal Analysis",
+      "period": "2026",
+      "role": "Mechanical Engineering Intern, DRDO SSPL",
+      "summary": "Characterized the thermal diffusivity of graphite and polymeric resin using Laser Flash Analysis and compared their thermal transport behavior.",
+      "impact": "Built practical experience in thermal-material testing, detector thermogram analysis, and Parker's method for diffusivity estimation.",
+      "tech": ["Laser Flash Analysis", "Thermal Diffusivity", "Parker's Method", "Material Characterization"],
+      "tags": ["Thermal Analysis", "Materials", "DRDO"],
+      "featured": false,
+      "media": [],
+      "bullets": [
+        "Prepared plane-parallel samples and operated the Laser Flash Analysis system.",
+        "Analyzed detector thermograms using Parker's method to determine half-rise time and thermal diffusivity.",
+        "Compared the thermal transport behavior of graphite and polymeric resin samples."
+      ]
     }
   ],
   "leadership": [
@@ -243,12 +274,32 @@
         "Overseeing financial coordination and resource planning for ASME NSUT activities.",
         "Supporting chapter execution alongside technical and organizational responsibilities."
       ]
+    },
+    {
+      "title": "CAE & Manufacturing Head",
+      "organization": "Team BulletHawk Racing",
+      "period": "2025 - Present",
+      "summary": "Leading CAE validation and manufacturing execution for a Formula Student race car.",
+      "bullets": [
+        "Overseeing structural design validation, manufacturing processes, and technical execution across vehicle subsystems."
+      ]
+    },
+    {
+      "title": "Captain",
+      "organization": "Team Titan Strike - Robowar Competition",
+      "period": "2025 - 2026",
+      "summary": "Led technical execution of a 15 kg combat robot from material sourcing through testing and competition readiness.",
+      "bullets": [
+        "Managed precision assembly, testing, troubleshooting, and project execution under competition deadlines."
+      ]
     }
   ],
   "achievements": [
     "1st Position - Ecopreneurs Case-Comp, DTU 2026 for a manufacturing optimization solution for VTOL.",
     "3rd Position - CAD Battle at DTU Invictus 2025.",
     "2nd Position - Beyond The Grid during NSUT Resonanz 2024.",
+    "AIR 3 - ASME Efx RC Drone Challenge 2026.",
+    "AIR 4 - ASME Efx Robowar 2026.",
     "100/100 and Course Topper - Conservation Geography, IIT Kanpur.",
     "Elite + Silver - Design Thinking, IIT Madras.",
     "91% in NPTEL Introduction to Internet of Things with top 2% performance nationwide."
@@ -323,7 +374,7 @@
       "title": "B.Tech in Mechanical Engineering",
       "organization": "Netaji Subhas University of Technology",
       "period": "2023 - 2027",
-      "summary": "CGPA: 7.67",
+      "summary": "CGPA: 7.82",
       "bullets": [
         "Focused on mechanical design, structural analysis, manufacturing systems, and applied engineering projects."
       ]
@@ -332,7 +383,7 @@
       "title": "CBSE Class XII",
       "organization": "SCSDSV Sector-9, Rohini, New Delhi",
       "period": "2023",
-      "summary": "85.8%",
+      "summary": "86%",
       "bullets": []
     },
     {

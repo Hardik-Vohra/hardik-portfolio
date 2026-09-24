@@ -16,7 +16,7 @@ import {
   UsersRound,
   X
 } from "lucide-react";
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 import content from "@/data/portfolio-content.json";
 import type { Certificate, Metric, Project, TimelineItem } from "@/types/portfolio";
@@ -115,9 +115,12 @@ function SectionNav({ activeSection, onSelect }: { activeSection: SectionKey; on
 
 export default function Home() {
   const [activeSection, setActiveSection] = useState<SectionKey>("overview");
+  const workspaceRef = useRef<HTMLDivElement>(null);
   const openSection = (section: SectionKey) => {
     setActiveSection(section);
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    requestAnimationFrame(() => {
+      workspaceRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
   };
 
   return (
@@ -169,7 +172,7 @@ export default function Home() {
         </div>
       </Shell>
 
-      <Shell className="relative pt-4 lg:pt-8">
+      <Shell ref={workspaceRef} className="relative scroll-mt-24 pt-4 lg:pt-8">
         <div className="mb-7 flex flex-wrap items-end justify-between gap-4 border-b border-white/10 pb-5"><div><p className="text-xs font-semibold uppercase tracking-[0.3em] text-accent">Selected workspace</p><p className="mt-2 text-sm text-mist">Open a section to explore the details without an endless page.</p></div><p className="text-xs uppercase tracking-[0.25em] text-white/45">{sectionTabs.find((tab) => tab.key === activeSection)?.label}</p></div>
 
         <AnimatePresence mode="wait">

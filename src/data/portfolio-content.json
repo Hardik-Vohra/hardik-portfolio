@@ -295,31 +295,69 @@
     }
   ],
   "achievements": [
-    "1st Rank - Ecopreneurs Case Challenge, DTU 2026.",
-    "Top 2% Nationwide - NPTEL Introduction to Internet of Things with 91%.",
-    "Finalist - BAJA SAE India 2025 CAE Event.",
-    "3rd Rank - CAD Battle, DTU 2025.",
-    "2nd Rank - BTG CAD Competition, NSUT 2024.",
+    "1st Position - Ecopreneurs Case-Comp, DTU 2026 for a manufacturing optimization solution for VTOL.",
+    "3rd Position - CAD Battle at DTU Invictus 2025.",
+    "2nd Position - Beyond The Grid during NSUT Resonanz 2024.",
     "AIR 3 - ASME EFx RC Drone Challenge 2026.",
-    "AIR 4 - ASME EFx Robowar Challenge 2026."
+    "AIR 4 - ASME EFx Robowar Challenge 2026.",
+    "100/100 and Course Topper - Conservation Geography, IIT Kanpur.",
+    "Elite + Silver - Design Thinking, IIT Madras.",
+    "91% in NPTEL Introduction to Internet of Things with top 2% performance nationwide.",
+    "Finalist - BAJA SAE India 2025 CAE Event."
   ],
   "certificates": [
     {
-      "title": "Lean Six Sigma White Belt",
+      "title": "Maruti Suzuki Internship Certificate",
+      "issuer": "Maruti Suzuki India Ltd",
+      "outcome": "Industrial internship in quality-control and assembly optimization.",
+      "kind": "image"
+    },
+    {
+      "title": "Larsen & Toubro Internship Certificate",
+      "issuer": "Larsen & Toubro Limited",
+      "outcome": "Internship completion certificate for training at the Chandrawal water and effluent treatment project.",
+      "kind": "image"
+    },
+    {
+      "title": "NSS Certificate",
+      "issuer": "National Service Scheme",
+      "outcome": "Volunteer and service participation recognition.",
+      "kind": "image"
+    },
+    {
+      "title": "Design Thinking - A Primer",
+      "issuer": "IIT Madras / NPTEL",
+      "outcome": "Elite + Silver, 87%.",
+      "kind": "image"
+    },
+    {
+      "title": "Industrial Training in Robotics and AI",
+      "issuer": "My Equation",
+      "outcome": "Completed 30-day training in robotics automation and software simulation with AI.",
+      "kind": "image"
+    },
+    {
+      "title": "Developing Soft Skills and Personality",
+      "issuer": "IIT Kanpur / NPTEL",
+      "outcome": "Elite, 83%.",
+      "kind": "image"
+    },
+    {
+      "title": "Six Sigma White Belt",
       "issuer": "Six Sigma Online",
       "outcome": "Certification in process-improvement fundamentals and waste reduction.",
       "kind": "image"
     },
     {
-      "title": "Design Thinking",
-      "issuer": "IIT Madras",
-      "outcome": "Completed Design Thinking coursework through NPTEL.",
+      "title": "Introduction to Internet of Things",
+      "issuer": "IIT Kharagpur / NPTEL",
+      "outcome": "Completed with a consolidated score of 91% and top 2% performance nationwide.",
       "kind": "image"
     },
     {
-      "title": "Industrial Training in Robotics & AI",
-      "issuer": "My Equation",
-      "outcome": "Completed industrial training in robotics automation and AI-based software simulation.",
+      "title": "Volship Fellowship Certificate of Appreciation",
+      "issuer": "Volunteer for India / Bhumi / YuWaah at UNICEF",
+      "outcome": "Recognized for exemplary dedication and active participation in the Volship Fellowship.",
       "kind": "image"
     },
     {
@@ -336,7 +374,7 @@
     },
     {
       "title": "Geometric Dimensioning & Tolerancing",
-      "issuer": "Technical Learning Credential",
+      "issuer": "Professional Development",
       "outcome": "Completed GD&T learning focused on engineering drawings and manufacturing communication.",
       "kind": "image"
     },

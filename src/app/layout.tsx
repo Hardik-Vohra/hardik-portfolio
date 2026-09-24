@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 
 import "@/app/globals.css";
 
@@ -36,6 +37,7 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable}`}>
       <body>
         {children}
+        <Analytics />
         <Script src="/_vercel/insights/script.js" strategy="afterInteractive" />
       </body>
     </html>

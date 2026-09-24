@@ -173,8 +173,6 @@ export default function Home() {
       </Shell>
 
       <Shell ref={workspaceRef} className="relative scroll-mt-24 pt-4 lg:pt-8">
-        <div className="mb-7 flex flex-wrap items-end justify-between gap-4 border-b border-white/10 pb-5"><div><p className="text-xs font-semibold uppercase tracking-[0.3em] text-accent">Selected workspace</p><p className="mt-2 text-sm text-mist">Open a section to explore the details without an endless page.</p></div><p className="text-xs uppercase tracking-[0.25em] text-white/45">{sectionTabs.find((tab) => tab.key === activeSection)?.label}</p></div>
-
         <AnimatePresence mode="wait">
           <motion.div key={activeSection} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }} transition={{ duration: 0.24, ease: "easeOut" }}>
             {activeSection === "overview" ? <div className="space-y-16">
@@ -191,7 +189,7 @@ export default function Home() {
             {activeSection === "credentials" ? <div className="space-y-16">
               <div className="grid gap-10 lg:grid-cols-[0.78fr_1.22fr]"><SectionHeading eyebrow="Education" title="A strong academic base, kept close to applied work." description="Academic progress is presented alongside the systems, analysis, and team projects where the learning is put to work." /><div className="grid gap-5">{content.education.map((item) => <TimelineCard key={`${item.organization}-${item.period}`} title={item.title} organization={item.organization} period={item.period} summary={item.summary} bullets={item.bullets} />)}</div></div>
               <div><SectionHeading eyebrow="Recognition" title="Results across competitions, academics, and applied problem-solving." description="A concise view of rankings, awards, and distinctions that reinforce the engineering work." /><div className="mt-8 grid gap-5 md:grid-cols-2 xl:grid-cols-3">{content.achievements.map((achievement) => <article key={achievement} className="rounded-3xl border border-white/10 bg-panel/70 p-6 shadow-glow"><div className="flex items-center gap-3 text-flame"><Trophy className="h-5 w-5" /><p className="text-xs uppercase tracking-[0.3em]">Achievement</p></div><p className="mt-5 text-sm leading-7 text-silver">{achievement}</p></article>)}</div></div>
-              <div><SectionHeading eyebrow="Certifications" title="Credentials that add technical breadth." description="Current resume-listed certifications and learning programs. Certificate files are intentionally not linked." /><div className="mt-8"><CertificateGrid items={certificates} /></div></div>
+              <div><SectionHeading eyebrow="Certifications" title="Credentials that add technical breadth." description="Current certifications and learning programs." /><div className="mt-8"><CertificateGrid items={certificates} /></div></div>
             </div> : null}
 
             {activeSection === "gallery" ? <div><SectionHeading eyebrow="Gallery" title="Visual proof of teams, builds, and analysis." description="A curated visual record of the work behind the projects, from CAD and FEA studies to competition teams and prototypes." /><div className="mt-10"><MediaGallery items={galleryItems} /></div></div> : null}

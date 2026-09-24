@@ -62,9 +62,6 @@ export function ProjectShowcase({ projects }: ProjectShowcaseProps) {
                   {project.category}
                 </p>
                 <h3 className="mt-3 font-display text-2xl text-white">{project.title}</h3>
-                <p className="mt-3 max-w-sm text-sm text-silver">
-                  Project visuals will be attached here after you confirm the correct photo-to-project mapping.
-                </p>
               </div>
             </div>
 
